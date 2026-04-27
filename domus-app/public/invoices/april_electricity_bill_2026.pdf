@@ -1,0 +1,56 @@
+%PDF-1.4
+1 0 obj
+<</Type /Catalog /Pages 2 0 R>>
+endobj
+2 0 obj
+<</Type /Pages /Kids [3 0 R] /Count 1>>
+endobj
+3 0 obj
+<</Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources <</Font <</F1 5 0 R>>>>>>
+endobj
+4 0 obj
+<</Length 636>>
+stream
+BT
+/F1 9 Tf
+50 780 Td
+13 TL
+(CON EDISON - ELECTRICITY INVOICE) Tj
+(====================================) '
+() '
+(Account Number:  4892-7734-1) '
+(Service Address: 123 Main St, Unit 4B, New York, NY) '
+(Billing Period:  March 15 - April 14, 2026) '
+() '
+(CHARGES) '
+(  Basic Service Charge         $12.50) '
+(  Energy Usage \(623 kWh\)      $118.74) '
+(  Taxes & Surcharges           $16.76) '
+(  ------------------------------------) '
+(  TOTAL AMOUNT DUE            $148.00) '
+() '
+(PAYMENT DUE DATE:  April 30, 2026) '
+() '
+(Pay online: coned.com/pay) '
+(Phone: 1-800-752-6633) '
+() '
+(Thank you for being a Con Edison customer.) '
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Courier>>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000056 00000 n 
+0000000111 00000 n 
+0000000231 00000 n 
+0000000916 00000 n 
+trailer
+<</Size 6 /Root 1 0 R>>
+startxref
+982
+%%EOF

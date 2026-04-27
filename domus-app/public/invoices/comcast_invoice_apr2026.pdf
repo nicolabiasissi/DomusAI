@@ -1,0 +1,52 @@
+%PDF-1.4
+1 0 obj
+<</Type /Catalog /Pages 2 0 R>>
+endobj
+2 0 obj
+<</Type /Pages /Kids [3 0 R] /Count 1>>
+endobj
+3 0 obj
+<</Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources <</Font <</F1 5 0 R>>>>>>
+endobj
+4 0 obj
+<</Length 471>>
+stream
+BT
+/F1 9 Tf
+50 780 Td
+13 TL
+(COMCAST BUSINESS - INVOICE) Tj
+(====================================) '
+() '
+(Account: 8495-1123-DT) '
+(Location: 789 Pine Ave, Austin, TX) '
+(Period:   April 1 - April 30, 2026) '
+() '
+(SERVICES) '
+(  Business Internet 300 Mbps    $79.00) '
+(  Equipment Rental              $10.00) '
+(  ------------------------------------) '
+(  TOTAL AMOUNT DUE              $89.00) '
+() '
+(DUE DATE: May 1, 2026) '
+() '
+(Manage: business.comcast.com) '
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Courier>>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000056 00000 n 
+0000000111 00000 n 
+0000000231 00000 n 
+0000000751 00000 n 
+trailer
+<</Size 6 /Root 1 0 R>>
+startxref
+817
+%%EOF

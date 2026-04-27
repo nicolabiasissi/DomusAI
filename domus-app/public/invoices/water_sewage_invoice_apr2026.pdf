@@ -1,0 +1,53 @@
+%PDF-1.4
+1 0 obj
+<</Type /Catalog /Pages 2 0 R>>
+endobj
+2 0 obj
+<</Type /Pages /Kids [3 0 R] /Count 1>>
+endobj
+3 0 obj
+<</Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources <</Font <</F1 5 0 R>>>>>>
+endobj
+4 0 obj
+<</Length 485>>
+stream
+BT
+/F1 9 Tf
+50 780 Td
+13 TL
+(NYC WATER BOARD - INVOICE) Tj
+(====================================) '
+() '
+(Account: W-2024-0089421) '
+(Service: 123 Main St, New York, NY) '
+(Period:  January 1 - April 1, 2026) '
+() '
+(CHARGES) '
+(  Water Usage \(12,400 gallons\)  $34.00) '
+(  Sewage Charge                 $28.00) '
+(  ------------------------------------) '
+(  TOTAL AMOUNT DUE              $62.00) '
+() '
+(DUE DATE: May 5, 2026) '
+() '
+(Pay: nyc.gov/dep) '
+(Phone: 718-595-7000) '
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Courier>>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000056 00000 n 
+0000000111 00000 n 
+0000000231 00000 n 
+0000000765 00000 n 
+trailer
+<</Size 6 /Root 1 0 R>>
+startxref
+831
+%%EOF
