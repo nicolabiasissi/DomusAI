@@ -174,7 +174,7 @@ export const translations = {
     "settings.plan.title":            "Plan",
     "settings.plan.desc":             "Your current subscription and billing.",
     "settings.plan.basicFeatures":    "1 property · limited features · Free",
-    "settings.plan.proFeatures":      "Unlimited properties · all features · $29/month",
+    "settings.plan.proFeatures":      "Unlimited properties · all features · €9/month",
     "settings.plan.active":           "Active",
 
     // ── Upgrade modal ────────────────────────────────────────────────────────
@@ -489,7 +489,7 @@ export const translations = {
     "settings.plan.title":            "Piano",
     "settings.plan.desc":             "Il tuo abbonamento e la fatturazione.",
     "settings.plan.basicFeatures":    "1 proprietà · funzionalità base · Gratuito",
-    "settings.plan.proFeatures":      "Proprietà illimitate · tutte le funzionalità · $29/mese",
+    "settings.plan.proFeatures":      "Proprietà illimitate · tutte le funzionalità · €9/mese",
     "settings.plan.active":           "Attivo",
 
     // ── Upgrade modal ────────────────────────────────────────────────────────
